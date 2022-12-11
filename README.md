@@ -1,3 +1,3 @@
-# surajram.guthub.io
+# surajr.am
 
 Hello, World!
